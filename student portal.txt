@@ -1,0 +1,5 @@
+name: my name is kusuma
+suc: my suc no is 2361530097
+roll no: my roll no is 19
+course: Bsc-A
+Branch: Aditya degree college gopalapatnam
